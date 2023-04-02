@@ -3,7 +3,7 @@
 
 ### Alunos:
 
-1. Edgar Vitor Costa Barros de Moura | matricula: 22210538
-2. Erick Keven da Silva Alves | matricula: 22210862
-3.
+1. Edgar Vitor Costa Barros de Moura | Matricula: 22210538
+2. Erick Keven da Silva Alves | Matricula: 22210862
+3. Matheus Cristian Santos Portela | Matricula: 19211601
 4.
